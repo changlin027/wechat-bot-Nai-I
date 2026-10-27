@@ -1,0 +1,12 @@
+{
+  "groups": [
+    {
+      "group_id": "example_group@chatroom",
+      "group_name": "示例测试群",
+      "member_count": 3,
+      "member_ids": ["example_bot", "example_owner", "example_member"],
+      "owner_id": "example_owner",
+      "bot_id": "example_bot"
+    }
+  ]
+}
